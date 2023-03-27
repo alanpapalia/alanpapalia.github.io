@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://alanpapalia.github.io/sitemap.xml
