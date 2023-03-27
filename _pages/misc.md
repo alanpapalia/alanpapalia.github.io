@@ -8,7 +8,8 @@ nav_order: 99
 ---
 
 This page is a written record of everything else in my life. It's mostly written
-for me, though all are welcome to see.
+for me, though all are welcome to see. This will be a continuous work in
+progress.
 
 - [Myself](#myself)
 - [Trips and Adventures](#trips-and-adventures)
