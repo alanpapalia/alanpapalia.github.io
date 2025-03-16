@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-05T01:07:40+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-03-16T02:46:53+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">A Guide to Earth Science Sensing for Marine Roboticists</title><link href="https://alanpapalia.github.io/blog/2025/earth-sciences-for-marine-roboticists/" rel="alternate" type="text/html" title="A Guide to Earth Science Sensing for Marine Roboticists" /><published>2025-01-10T00:00:00+00:00</published><updated>2025-01-10T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/earth-sciences-for-marine-roboticists</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/earth-sciences-for-marine-roboticists/"><![CDATA[<p>One of the questions I’ve spent time wondering is what role robotics has to play
 in tackling climate change.  Thankfully, I’m not the only one thinking about
 this.</p>
@@ -30,7 +30,33 @@ our observational tools.</p>
 is that the program was not led by engineers or roboticists, but by oceanographers.
 This underlies it’s success; the program was <strong>science-driven</strong> and the floats
 were designed to best meet the needs of the scientific community. I believe this
-is how the next</p>]]></content><author><name></name></author><category term="climate," /><category term="marine" /><category term="robotics" /><category term="climate," /><category term="earth" /><category term="science," /><category term="marine" /><category term="robotics," /><category term="oceanography" /><summary type="html"><![CDATA[What are the observational gaps that marine robotics can look to fill?]]></summary></entry><entry><title type="html">Everything starts somewhere</title><link href="https://alanpapalia.github.io/blog/2025/hello-world/" rel="alternate" type="text/html" title="Everything starts somewhere" /><published>2025-01-02T00:00:00+00:00</published><updated>2025-01-02T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/hello-world</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/hello-world/"><![CDATA[<p>I have a few different ideas for thoughts I want to share (okay, I have too many ideas).
+is how the next</p>
+
+<!-- % (ECMWF makes ERA, gold standard weather forecasting)
+% Remote sensing -> ARGO -> WOCE -> Moorings (like OOI) -> smaller initiatives
+
+% \finishme{Something that we would like -- as marine roboticists -- is a roadmap
+%     of what sensing modalities are currently used by earth scientists and where the
+%     gaps may be. Is this is a separate paper/blog post?}
+
+% Data collection strategies can loosely be thought of as trading-off spatial and
+% temporal resolution, consistency, and coverage across both space and time, as
+% well as costs (both labor and price) to develop and deploy. Measurements across
+% sensor modalities (biological, physical, chemical, etc.) or following
+% Langrangian or Eulerian approaches can be fused to help resolve issues that any
+% individual modality or approach may suffer. We can thus plot various platforms
+% across these axes to build a broad sense of current robotic approaches to ocean
+% data collection:
+
+% \begin{itemize}
+%     \item Remote sensing, largely via satellites and sometime high altitude aircraft
+%     \item Argo Floats / bioArgo
+%     \item Ship-board sensing and the WOCE Atlas
+%     \item Regional moorings, profilers, and recurring deployments of gliders, and recently saildrones
+%     \item Autonomous Underwater Vehicles and Remotely-Operated Vehicles
+%     \item robotics for aquaculture management \cite{evjemo2024biologytechnologyinteractionstudy} \cite{botta2024frameworkrobustlocalizationuuvs} \cite{10566210} \cite{amundsen2024aquaculturefieldroboticsapplications}
+%     \item path planning for extreme events \cite{BLANCHARD2022110242}
+% \end{itemize} -->]]></content><author><name></name></author><category term="climate," /><category term="marine" /><category term="robotics" /><category term="climate," /><category term="earth" /><category term="science," /><category term="marine" /><category term="robotics," /><category term="oceanography" /><summary type="html"><![CDATA[What are the observational gaps that marine robotics can look to fill?]]></summary></entry><entry><title type="html">Everything starts somewhere</title><link href="https://alanpapalia.github.io/blog/2025/hello-world/" rel="alternate" type="text/html" title="Everything starts somewhere" /><published>2025-01-02T00:00:00+00:00</published><updated>2025-01-02T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/hello-world</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/hello-world/"><![CDATA[<p>I have a few different ideas for thoughts I want to share (okay, I have too many ideas).
 They range from relatively technical math posts to more philosophical discussion on research,
 robotics, and what we’re doing on this small blue dot. If you have anything you’d like to
 see, please let me know!</p>]]></content><author><name></name></author><category term="misc" /><category term="random" /><summary type="html"><![CDATA[The starting post]]></summary></entry></feed>
