@@ -1,24 +1,46 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-11T14:59:21+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-11T16:17:19+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Advice for PhD students</title><link href="https://alanpapalia.github.io/blog/2025/phd-advice/" rel="alternate" type="text/html" title="Advice for PhD students" /><published>2025-07-08T00:00:00+00:00</published><updated>2025-07-08T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/phd-advice</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/phd-advice/"><![CDATA[<p>There’s a lot of great advice out there for PhD students. Here I try to compile
 some of the best advice I’ve come across, along with my own thoughts on the
 matter. This is a living document, and I will update it as I find more advice or
 as my own views evolve.</p>
 
+<p>Of course, I don’t fully agree with all of this (and I couldn’t if I wanted to
+– some of the points in these resources are slightly contradictory). However, I
+mostly agree with the spirit of these points, and I think that it is worth
+understanding the perspective they come from.</p>
+
+<p>Take things with grains of salt, and think critically about what matches your
+system. Most of all, remember that a PhD is supposed to be fun (albeit often
+type two fun – not always “fun” in the moment, but deeply rewarding in
+hindsight). If you find yourself not enjoying it, take a step back and think
+about why that is.</p>
+
 <p><strong>Last updated:</strong> July 8, 2025</p>
+
+<h1 id="stories-of-a-phd">Stories of a PhD</h1>
+
+<p>People who have written about their PhD experiences (benefit of hindsight):</p>
+
+<ul>
+  <li><a href="/assets/pdf/philipguo-phd-grind.pdf">Philip Guo’s The PhD Grind</a></li>
+</ul>
 
 <h1 id="meta-phd-and-broad-phd-advice">Meta-PhD and Broad-PhD Advice</h1>
 
 <ul>
   <li><a href="https://greatresearch.org/2013/08/23/why-get-a-ph-d/">Why Get a PhD?</a></li>
   <li><a href="https://greatresearch.org/2013/08/14/managing-your-advisor/">Managing Your Advisor</a></li>
-  <li><a href="https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips/">Philip Guo’s tips for PhD students</a></li>
+  <li><a href="/blog/2025/philip-guo-phd-tips/">Philip Guo’s tips for PhD students</a></li>
   <li><a href="https://greatresearch.org/2013/09/13/cultivating-your-research-taste/">Cultivating Your Research Taste</a></li>
   <li><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">The classic Richard Hamming “You and Your Research” talk</a></li>
   <li><a href="https://greatresearch.org/2013/09/20/research-patterns/">Research Patterns</a></li>
   <li><a href="https://www.alextamkin.com/essays/tips-for-new-researchers">Alex Tamkin’s tips for researchers</a></li>
+  <li><a href="https://www.quora.com/For-a-beginning-PhD-student-what-is-the-best-predictor-of-whether-or-not-that-student-will-continue-in-academia-beyond-the-PhD/answer/Ben-Y-Zhao?srid=uFKg&amp;share=1">What matters in PhD students?</a></li>
 </ul>
 
 <h1 id="persistence-and-motivation">Persistence and Motivation</h1>
+
+<p>This shows up <strong>a lot</strong> in the advice above, but these are more specific discussions of the topic.</p>
 
 <ul>
   <li><a href="https://www.jeanyang.com/posts/genius-fallacy/">Jean Yang’s the Genius Fallacy</a></li>
@@ -38,7 +60,13 @@ as my own views evolve.</p>
 <h1 id="reading-and-reviewing">Reading and Reviewing</h1>
 
 <ul>
-  <li><a href="https://greatresearch.org/2013/10/18/the-paper-reviewing-process/">Reading and Reviewing</a></li>
+  <li><a href="https://greatresearch.org/2013/10/18/the-paper-reviewing-process/">The Paper Reviewing Process</a></li>
+</ul>
+
+<h1 id="interested-in-an-academic-career">Interested in an Academic Career?</h1>
+
+<ul>
+  <li><a href="https://danieltakeshi.github.io/2023/06/15/faculty-application">Daniel Seita’s Experience with the Faculty Job Market</a></li>
 </ul>]]></content><author><name></name></author><category term="research" /><category term="skills" /><category term="research" /><summary type="html"><![CDATA[A collection of advice for PhD students.]]></summary></entry><entry><title type="html">Philip Guo’s Tips for PhD Students</title><link href="https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips/" rel="alternate" type="text/html" title="Philip Guo’s Tips for PhD Students" /><published>2025-07-08T00:00:00+00:00</published><updated>2025-07-08T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips/"><![CDATA[<h1 id="philip-guos-tips-for-phd-students">Philip Guo’s Tips for PhD Students</h1>
 
 <p>Since this page is no longer maintained - I tried to copy what I could into this
