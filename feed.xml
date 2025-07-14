@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-11T16:21:17+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-14T16:19:29+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Advice for PhD students</title><link href="https://alanpapalia.github.io/blog/2025/phd-advice/" rel="alternate" type="text/html" title="Advice for PhD students" /><published>2025-07-08T00:00:00+00:00</published><updated>2025-07-08T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/phd-advice</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/phd-advice/"><![CDATA[<p>There’s a lot of great advice out there for PhD students. Here I try to compile
 some of the best advice I’ve come across, along with my own thoughts on the
 matter. This is a living document, and I will update it as I find more advice or
@@ -17,20 +17,36 @@ about why that is.</p>
 
 <p><strong>Last updated:</strong> July 8, 2025</p>
 
+<h1 id="most-recommended-reads">Most Recommended Reads</h1>
+
+<p>Here are the articles that I would most strongly recommend to current/aspiring PhD students (of course biased by my own beliefs):</p>
+
+<ul>
+  <li><a href="https://michaelnielsen.org/blog/principles-of-effective-research/">Michael Nielsen’s Principles of Effective Research</a></li>
+  <li><a href="https://www.jeanyang.com/posts/genius-fallacy/">Jean Yang’s the Genius Fallacy</a></li>
+  <li><a href="https://jxyzabc.blogspot.com/2016/09/five-things-more-important-about.html">Jean Yang’s Five Things More Important About a Research Project Than Being in Love</a></li>
+  <li><a href="https://greatresearch.org/2013/08/14/managing-your-advisor/">Managing Your Advisor</a></li>
+  <li><a href="https://www.cs.unc.edu/~azuma/hitch4.html">So Long and Thanks for the PhD</a></li>
+</ul>
+
+<p>Of course, everything on this page is worth reading. If you’re time-constrained, I would recommend starting with the above.</p>
+
 <h1 id="stories-of-a-phd">Stories of a PhD</h1>
 
 <p>People who have written about their PhD experiences (benefit of hindsight):</p>
 
 <ul>
-  <li><a href="/assets/pdf/philipguo-phd-grind.pdf">Philip Guo’s The PhD Grind</a></li>
+  <li><a href="/assets/pdf/philipguo-phd-grind.pdf">Philip Guo’s The PhD Grind</a> (this is a .pdf)</li>
 </ul>
 
 <h1 id="meta-phd-and-broad-phd-advice">Meta-PhD and Broad-PhD Advice</h1>
 
 <ul>
+  <li><a href="https://karpathy.github.io/2016/09/07/phd/">Andrej Karpathy’s PhD Survival Guide</a></li>
+  <li><a href="https://michaelnielsen.org/blog/principles-of-effective-research/">Michael Nielsen’s Principles of Effective Research</a></li>
   <li><a href="https://greatresearch.org/2013/08/23/why-get-a-ph-d/">Why Get a PhD?</a></li>
+  <li><a href="https://www.cs.unc.edu/~azuma/hitch4.html">So Long and Thanks for the PhD</a></li>
   <li><a href="https://greatresearch.org/2013/08/14/managing-your-advisor/">Managing Your Advisor</a></li>
-  <li><a href="/blog/2025/philip-guo-phd-tips/">Philip Guo’s tips for PhD students</a></li>
   <li><a href="https://greatresearch.org/2013/09/13/cultivating-your-research-taste/">Cultivating Your Research Taste</a></li>
   <li><a href="https://www.cs.virginia.edu/~robins/YouAndYourResearch.html">The classic Richard Hamming “You and Your Research” talk</a></li>
   <li><a href="https://greatresearch.org/2013/09/20/research-patterns/">Research Patterns</a></li>
@@ -67,302 +83,8 @@ about why that is.</p>
 
 <ul>
   <li><a href="https://danieltakeshi.github.io/2023/06/15/faculty-application">Daniel Seita’s Experience with the Faculty Job Market</a></li>
-</ul>]]></content><author><name></name></author><category term="research-advice" /><category term="research-advice" /><summary type="html"><![CDATA[A collection of advice for PhD students.]]></summary></entry><entry><title type="html">Philip Guo’s Tips for PhD Students</title><link href="https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips/" rel="alternate" type="text/html" title="Philip Guo’s Tips for PhD Students" /><published>2025-07-08T00:00:00+00:00</published><updated>2025-07-08T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/philip-guo-phd-tips/"><![CDATA[<h1 id="philip-guos-tips-for-phd-students">Philip Guo’s Tips for PhD Students</h1>
-
-<p>Since this page is no longer maintained - I tried to copy what I could into this
-page. To be honest, I’m not sure if this is exactly what was on the original
-page, but these are all points that are worth considering and it is useful to understand
-the perspective they come from.</p>
-
-<p>As always, think critically and make your own decisions about what works for you.</p>
-
-<h2 id="1-stop-caring-about-classes">1. Stop caring about classes</h2>
-
-<p>Just do what you need to pass.</p>
-
-<blockquote>
-  <p>Only spend time on classes once you’ve made progress on your research.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="2-undergrad-versus-phd-research">2. Undergrad versus PhD research</h2>
-
-<p>Every student admitted into PhD programs has a lot of potential for creative research, but very few realize it—not because they’re not smart, but due to lacking resilience, perseverance, metacognition, or self-discipline.</p>
-
-<blockquote>
-  <p>These traits can be fostered through self-reflection and mentorship.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="3-uncertainty-isolation-and-project-scoping">3. Uncertainty, isolation, and project scoping</h2>
-
-<ul>
-  <li><strong>Uncertainty:</strong> You don’t know if your hard work will pay off.</li>
-  <li><strong>Isolation:</strong> Few people care about what you’re doing.</li>
-  <li><strong>Project scoping:</strong> You don’t know how big your paper should be.</li>
-</ul>
-
-<p><strong>What you should do:</strong></p>
-<ul>
-  <li>Make consistent progress every day.</li>
-  <li>Get mentor feedback every 1–2 weeks.</li>
-  <li>Submit papers and get external feedback a few times a year.</li>
-</ul>
-
-<hr />
-
-<h2 id="4-develop-research-taste">4. Develop research taste</h2>
-
-<p>How?</p>
-
-<ul>
-  <li>Read good recent papers recommended by your advisor.</li>
-  <li>Assist others with their projects.</li>
-  <li>Accept that a lot of mediocre work is necessary before developing taste. Keep grinding.</li>
-</ul>
-
-<hr />
-
-<h2 id="5-most-of-the-daily-work-wont-feel-like-research">5. Most of the daily work won’t feel like “research”</h2>
-
-<p>If this happens, stay mindful of the big picture. Don’t get trapped in trivialities.</p>
-
-<hr />
-
-<h2 id="6-understand-your-advisor">6. Understand your advisor</h2>
-
-<p>If your advisor is pre-tenure, helping them earn tenure will likely depend on your research output.</p>
-
-<hr />
-
-<h2 id="7-there-is-no-perfect-advisor">7. There is no perfect advisor</h2>
-
-<p>People succeed <em>despite</em> their advisor’s imperfections. Don’t rely solely on your advisor for your success.</p>
-
-<hr />
-
-<h2 id="8-be-patient">8. Be patient</h2>
-
-<ul>
-  <li>The first 3 years of your PhD may not count toward your dissertation.</li>
-  <li>No publications after 3 years? Still okay.</li>
-  <li>If your advisor is untenured, expect pressure to publish sooner.</li>
-</ul>
-
-<hr />
-
-<h2 id="9-make-professors-want-to-help-you">9. Make professors want to help you</h2>
-
-<p>They want to help students who already know how to do research and need less guidance.</p>
-
-<blockquote>
-  <p>Show your potential to be a good researcher.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="10-find-peer-support">10. Find peer support</h2>
-
-<p>PhD isolation is the default. Seek out peers proactively.</p>
-
-<hr />
-
-<h2 id="11-avoid-infectious-negativity">11. Avoid infectious negativity</h2>
-
-<p>Even if you’re struggling, try not to spread negativity to others.</p>
-
-<hr />
-
-<h2 id="12-be-careful-about-advice-from-senior-students-outside-your-area">12. Be careful about advice from senior students outside your area</h2>
-
-<ul>
-  <li>They may not understand your specific challenges.</li>
-  <li>But they <em>can</em> offer great advice about navigating your advisor.</li>
-</ul>
-
-<hr />
-
-<h2 id="13-understand-your-job">13. Understand your job</h2>
-
-<p>Your job in a PhD is to <strong>publish high-quality research papers that contribute valuable new knowledge</strong>.</p>
-
-<hr />
-
-<h2 id="14-make-yourself-accountable">14. Make yourself accountable</h2>
-
-<p>Be accountable to:</p>
-<ul>
-  <li>Other people (e.g., postdocs or collaborators),</li>
-  <li>Deadlines (e.g., conference submissions, talks),</li>
-  <li>Structures (e.g., lab meetings).</li>
-</ul>
-
-<hr />
-
-<h2 id="15-develop-a-fixed-work-schedule">15. Develop a fixed work schedule</h2>
-
-<ul>
-  <li>Always do the most important thing first.</li>
-  <li>Research is your #1 priority—not classes, TA work, or admin.</li>
-</ul>
-
-<blockquote>
-  <p>Suggested: Work on research from 8–11am every day, uninterrupted.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="16-do-everything-you-can-to-protect-your-mornings">16. Do everything you can to protect your mornings</h2>
-
-<p>Self-explanatory.</p>
-
-<hr />
-
-<h2 id="17-politely-turn-down-volunteer-service-work-requests">17. Politely turn down volunteer service work requests</h2>
-
-<p>Self-explanatory.</p>
-
-<hr />
-
-<h2 id="18-push-back-against-professors-who-overwork-you-as-a-ta">18. Push back against professors who overwork you as a TA</h2>
-
-<p>Self-explanatory.</p>
-
-<hr />
-
-<h2 id="19-keep-moving">19. Keep moving</h2>
-
-<p>If you’re stuck, <strong>tell your advisor or mentors immediately</strong>.</p>
-
-<blockquote>
-  <p>Many PhDs fail not from lack of talent, but from getting stuck and demoralized.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="20-avoid-the-dreaded-loop-of-despair">20. Avoid the dreaded loop of despair</h2>
-
-<p>Getting stuck → no help → procrastination → worse outcomes.</p>
-
-<hr />
-
-<h2 id="21-everyone-is-busyask-for-help-anyway">21. Everyone is busy—ask for help anyway</h2>
-
-<p>If you’ve done your homework, it’s fine to ask busy people for help.</p>
-
-<blockquote>
-  <p>You are not wasting anyone’s time by being prepared and showing desire to grow.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="22-managing-your-advisor">22. Managing your advisor</h2>
-
-<p>Advisors are good at <strong>making decisions</strong>.</p>
-
-<blockquote>
-  <p>Don’t ask: <em>“What do you think of this draft?”</em>
-Ask: <em>“Given A and B, should I use model X, Y, or Z?”</em></p>
-</blockquote>
-
-<p>Make it easy for them to help you.</p>
-
-<hr />
-
-<h2 id="23-contact-hours">23. Contact hours</h2>
-
-<p>Don’t rely only on metrics like papers or awards.</p>
-
-<blockquote>
-  <p>Instead, track your <strong>daily contact hours</strong> with core research.</p>
-</blockquote>
-
-<p>Good target:</p>
-<ul>
-  <li>3–4 hours/day of focused work</li>
-  <li>1–2 hours/week of meetings with advisor</li>
-</ul>
-
-<blockquote>
-  <p>“Focus on the action, not the result. The result will come.”</p>
-</blockquote>
-
-<hr />
-
-<h2 id="24-my-project-stinks-should-i-quit">24. My project stinks… should I quit?</h2>
-
-<ul>
-  <li>If it’s <strong>your own</strong> project: try sticking with it for 3+ months.</li>
-  <li>If it’s <strong>someone else’s</strong>: switch if you’ve earned authorship.</li>
-  <li>Always aim to gain transferable skills—even if you leave a project.</li>
-</ul>
-
-<blockquote>
-  <p>It’s easier to switch projects early in your PhD.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="25-writing-papers">25. Writing papers</h2>
-
-<ul>
-  <li>Takes <strong>much longer</strong> than expected.</li>
-  <li>Don’t worry about quality initially—get content down first.</li>
-</ul>
-
-<blockquote>
-  <p>Even 12 pages of junk is better than a blank page.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="26-dont-worry-about-big-talkers">26. Don’t worry about big-talkers</h2>
-
-<p>95% of research is done in silence. Don’t feel self-conscious about others who are louder.</p>
-
-<blockquote>
-  <p>Silent excellence is still recognized.</p>
-</blockquote>
-
-<hr />
-
-<h2 id="27-dont-compare-yourself-to-other-students">27. Don’t compare yourself to other students</h2>
-
-<p>Self-explanatory.</p>
-
-<hr />
-
-<h2 id="28-social-media-and-online-presence">28. Social media and online presence</h2>
-
-<ul>
-  <li>You <strong>need</strong> a personal website. It doesn’t need to be fancy.</li>
-  <li>Use social media carefully.</li>
-</ul>
-
-<blockquote>
-  <p>“It may seem like everyone is winning awards or publishing nonstop. Don’t let that derail you.”</p>
-</blockquote>
-
-<blockquote>
-  <p>“It’s easier to post online than to grind on research. Focus on your real work.”</p>
-</blockquote>
-
-<blockquote>
-  <p><strong>What matters most for your career is publishing well-regarded papers. Everything else is secondary.</strong></p>
-</blockquote>
-
-<hr />
-
-<h2 id="29-commonly-observed-struggles">29. Commonly observed struggles</h2>
-
-<ul>
-  <li>If no faculty can summarize what you’re doing, your work may not be clear or scoped well.</li>
-  <li>It’s helpful to be on your advisor’s <strong>critical path</strong>—it keeps you motivated and aligned.</li>
-</ul>
-
-<hr />]]></content><author><name></name></author><category term="research-advice" /><category term="research-advice" /><summary type="html"><![CDATA[Words from Philip Guo on how to succeed in a PhD program.]]></summary></entry><entry><title type="html">My Undergrad Research Philosophy</title><link href="https://alanpapalia.github.io/blog/2025/undergrad-research/" rel="alternate" type="text/html" title="My Undergrad Research Philosophy" /><published>2025-07-08T00:00:00+00:00</published><updated>2025-07-08T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/undergrad-research</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/undergrad-research/"><![CDATA[<p>This is a document I wrote early on in grad school to help me clarify my
+  <li><a href="https://sylviaherbert.com/faculty-application-advice/">Sylvia Herbert’s Advice for the Academic Job Market</a></li>
+</ul>]]></content><author><name></name></author><category term="research-advice" /><category term="research-advice" /><summary type="html"><![CDATA[A collection of advice for PhD students.]]></summary></entry><entry><title type="html">My Undergrad Research Philosophy</title><link href="https://alanpapalia.github.io/blog/2025/undergrad-research/" rel="alternate" type="text/html" title="My Undergrad Research Philosophy" /><published>2025-07-08T00:00:00+00:00</published><updated>2025-07-08T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/undergrad-research</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/undergrad-research/"><![CDATA[<p>This is a document I wrote early on in grad school to help me clarify my
 philosophy on working with undergrads. I haven’t really updated it since my
 first or second year (2020?), but I still think it captures my beliefs on the
 points of undergrad research and what I expect from students.</p>
