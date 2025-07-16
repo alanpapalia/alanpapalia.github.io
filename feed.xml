@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-16T13:01:18+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-16T14:17:10+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">My Advising Philosophy as a (new) Faculty</title><link href="https://alanpapalia.github.io/blog/2025/advising-philosophy/" rel="alternate" type="text/html" title="My Advising Philosophy as a (new) Faculty" /><published>2025-07-16T00:00:00+00:00</published><updated>2025-07-16T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/advising-philosophy</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/advising-philosophy/"><![CDATA[<p>This is a philosophy for my research group. While it’s primarily written for
 students interested in joining the lab, I hope it’s also useful as a reference
 point for those evaluating different advising styles more broadly.</p>
@@ -60,6 +60,26 @@ different areas. Still, the core idea is simple: we aim to do careful work on
 important questions, and share it in a way that others can understand, trust,
 and build on.</p>
 
+<p>To ground this philosophy, I want to share a personal example. One of the major
+projects from my PhD was a new localization technique that removed a key
+limitation present in much of the prior work. It took time to get there - longer
+than many of the faster-turnaround projects my peers pursued - and once I had
+the core result, I resisted the pressure to rush it out. I invested substantial
+time in writing, analysis, and experimental validation to make sure the
+contribution was clear, well-supported, and compelling.</p>
+
+<p>That work eventually received the King-Sun Fu Best Paper Award from IEEE
+Transactions on Robotics, the flagship journal in our field. More importantly,
+it remains one of the results I’m most proud of - technically, intellectually,
+and in terms of long-term impact. One carefully executed paper can shape a field</p>
+<ul>
+  <li>and a career - more than five rushed ones.</li>
+</ul>
+
+<p>This is the kind of work I want to enable. My hope is to create an environment
+where students are supported in taking the time and space to pursue deep,
+ambitious research that genuinely matters.</p>
+
 <h3 id="the-magnitude-of-world-class-problems-and-the-myth-of-breakthroughs">The magnitude of world-class problems and the myth of breakthroughs</h3>
 
 <p>Major research problems - those that are impactful to society and push the our
@@ -78,20 +98,48 @@ doesn’t matter. That’s false. Chipping away at hard problems is not just
 acceptable - it’s the norm (just look at the history of deep learning).
 Persistent, thoughtful progress is what good research usually looks like.</p>
 
-<h2 id="student-background">Student background</h2>
+<h2 id="student-background-and-technical-development">Student background and technical development</h2>
 
-<p>I don’t expect students to arrive with a highly specific technical background.
-Our work spans a broad range - from theoretical and algorithmic research (which
-can be done entirely with a good whiteboard and a laptop) to hands-on deployment
-of real robots in the field.</p>
+<p>I expect students to arrive with a solid foundation in programming and a
+willingness to engage deeply with mathematics and systems. Of course, no one
+shows up knowing everything. A key part of your PhD will be building new
+technical skills - especially in areas like optimization, probability, machine
+learning, and robotics systems. This is going to be difficult, but highly
+rewarding.</p>
 
-<p>What does matter most is a solid foundation in programming, comfort with
-mathematical thinking, and - above all - a strong willingness to learn.</p>
+<p>You will need to take ownership of that growth: reading, implementing,
+debugging, asking questions, and seeking out gaps in your own understanding.
+That’s part of what it means to become an independent researcher.</p>
 
-<p>You should expect to spend significant time independently building up your
-technical skills, especially in areas like mathematics, probability, and
-systems-level understanding. That growth is part of the process, and I see it as
-a core part of the PhD.</p>
+<p>While you’re responsible for your growth, you won’t be doing it in a vacuum. A
+high functioning lab provides a supportive environment for learning. Some things
+we will provide include:</p>
+<ul>
+  <li>Reading groups focused on foundational topics and emerging research;</li>
+  <li>Weekly group meetings that include technical talks and project updates;</li>
+  <li>Shared tools, codebases, and best practices that help accelerate learning;</li>
+  <li>Opportunities to work with and learn from more senior students and collaborators;</li>
+  <li>Regular one-on-one meetings where I can recommend resources, help unblock technical challenges, and guide deeper understanding.</li>
+</ul>
+
+<p>Note that while the group is young, I will fill many of these roles myself. I
+will also try to connect you with other senior students and postdocs outside of
+our group who can provide other perspectives and forms of senior mentorship.</p>
+
+<p>If you want to pursue more ambitious growth - for example, diving into an
+unfamiliar theoretical field, building a hardware testbed from scratch, or using
+a new machine learning toolchain - I will support you in doing that. Part of my
+job is to help you stretch your skills in the direction your research demands.
+Of course, we’ll work together to justify the project or direction beforehand
+(in terms of impact, novelty, feasibility, and resources), but for a
+well-motivated idea, I’ll do my best to help secure what’s needed to make it
+happen.</p>
+
+<p>And if you ever feel stuck - whether it’s a paper you don’t understand, a system
+that won’t work, or a gap in your background - please ask. You’re not expected
+to already know everything. You’re expected to be proactive, resourceful, and
+willing to learn. I may not have the answers, but I can help you find
+resources, suggest approaches, or connect you with others who can help.</p>
 
 <h2 id="independence-and-choosing-research-topics">Independence and choosing research topics</h2>
 
@@ -111,14 +159,33 @@ later stages of your PhD, you should be operating independently, with me acting
 more as a sounding board - someone who can help refine ideas, flag blind spots,
 and challenge assumptions.</p>
 
-<p><strong>Note on funding:</strong> Like any lab, our research will be shaped in part by
-funding opportunities. I work to find flexible support that aligns with our
-interests, and I aim to keep student-led inquiry at the center. But it’s
-important to acknowledge that funding can influence the direction of projects,
-especially in applied fields. Typically, funding in robotics is sufficiently
-flexible that students can pursue their own interests; the funding requirements
-are typically more along the lines of occasional reports and possibly
-demonstrations of the work.</p>
+<h3 id="funding-and-research-direction">Funding and research direction</h3>
+
+<p>Like any lab, our research will be shaped in part by funding opportunities. I
+work actively to secure support that aligns with our scientific interests and
+values, and I aim to keep student-led inquiry at the center of our work.</p>
+
+<p>In robotics, most funding agencies allow significant flexibility in how research
+goals are pursued. That flexibility is something I take seriously. When we
+propose work to a sponsor, I try to frame it in a way that reflects our broader
+interests so that there is room for exploration, creativity, and intellectual
+ownership by students.</p>
+
+<p>In practice, this often means that:</p>
+<ul>
+  <li>You will have space to define your own research directions, even within funded projects;</li>
+  <li>We can typically carve out subproblems or extensions of a project that align closely with your interests;</li>
+  <li>If a project ever feels too constrained, we will work together to find a better framing or explore adjacent ideas that satisfy both the scientific and sponsor goals.</li>
+</ul>
+
+<p>I will also actively pursue more flexible or exploratory sources of funding,
+such as university seed grants or fellowships to support student-initiated
+ideas.</p>
+
+<p>At the end of the day, I want you to work on problems that you find exciting and
+important. We’ll be strategic about matching those ideas to funding
+opportunities, but the driving force should always be meaningful research, not
+just fulfilling a contract.</p>
 
 <h2 id="proposing-ideas">Proposing ideas</h2>
 
@@ -134,6 +201,27 @@ researcher and independent thinker. I aim to foster a similar environment.</p>
 <p>Your early ideas don’t need to be polished or correct. What matters is engaging
 actively with the research process: spotting gaps, questioning assumptions, and
 thinking creatively about where to go next.</p>
+
+<h3 id="proposal-sketches">Proposal sketches</h3>
+
+<p>One you have some medium confidence and high interest in a problem, it is good
+to try to formalize it into a (very brief) proposal. This is a particularly
+good exercise for first-year students, but is encouraged for all students.
+This should be a ~1-2 page document that outlines:</p>
+<ul>
+  <li>The problem you want to solve</li>
+  <li>Why it matters (impact)</li>
+  <li>How it relates to existing work (literature and novelty)</li>
+  <li>A sketch of your approach (methods)</li>
+  <li>What would success look like (evaluation)</li>
+  <li>What resources you need (time, tools, collaborators)</li>
+  <li>What skills you need to develop (background, tools, etc.)</li>
+  <li>Any initial thoughts on feasibility and risks</li>
+</ul>
+
+<p>This doesn’t have to be a pristine piece of writing, just communicate the ideas
+clearly and give us a shared understanding of what you want to do. We can
+iterate on it together.</p>
 
 <h2 id="what-is-a-good-problem">What is a good problem?</h2>
 
@@ -247,9 +335,12 @@ students to be self-directed, take initiative, and actively drive their own
 learning and progress. The whole point of a PhD is to learn how to do
 independent research.</p>
 
-<p><strong>Priorities</strong>: Who you are as a person matters more than who you are as a
-researcher. Your health and relationships come first. Research is important,
-but it comes after family (however you define it) and well-being.</p>
+<ul>
+  <li><strong>Whole-person support</strong>: PhD students are people. I care about your
+well-being, not just your productivity. If you’re struggling - with work,
+health, family, or motivation - I want you to be able to bring that up. We can
+adjust, recalibrate, and figure out how to move forward in a sustainable way.</li>
+</ul>
 
 <p><strong>Level of involvement</strong>: I aim to be an engaged mentor, especially early on. I
 expect to work closely with students on ideas, experiments, and papers. As you
@@ -262,31 +353,60 @@ scope problems, refine ideas, design experiments, and write papers. I also put
 a strong emphasis on communication skills. I’ll support you in writing, giving
 talks, and clearly articulating your contributions.</p>
 
-<p><strong>Expectations and communication</strong>: I try to be clear about expectations, and I
-want students to feel comfortable asking when something is unclear. I’ll also
-encourage you to set your own expectations and goals and communicate them to
-me.</p>
+<p><strong>Communication and calibration</strong>: I will be transparent about my
+expectations, and I’ll ask you to do the same. I want you to raise questions if
+expectations or ideas are unclear. Open, regular communication is
+key to building a productive advising relationship - and to making sure you’re
+getting the right kind of support at the right time.</p>
 
 <p><strong>Career development</strong>: I’ll support you in whatever path you choose: academia,
 industry, startups, or elsewhere. That includes helping find opportunities,
 preparing applications, doing mock interviews, and connecting you with
-colleagues in relevant fields.</p>
+colleagues in relevant fields, companies, and institutions.</p>
 
-<h2 id="communication">Communication</h2>
+<h2 id="communication-and-feedback">Communication and Feedback</h2>
 
-<p>I aim to meet with each student regularly - typically once per week. This cadence
-may vary depending on the project stage and your needs, but you should expect
-consistent, dedicated time to discuss your work and get feedback. These meetings
-are also time for you to ask questions on things beyond the project, such as
-career advice, technical skills, or general research questions.</p>
+<p>Clear, frequent communication is critical for good advising. I aim to meet with
+each student regularly - typically once per week - to discuss research updates,
+give feedback, and help work through open questions. These meetings are also a
+space to talk about broader topics like career planning, skill development, or
+general questions about research.</p>
 
-<p>Between meetings, I encourage you to reach out via Slack or email with updates,
-questions, or thoughts. Don’t wait for a polished result - often the most valuable
-conversations happen when you’re stuck or exploring an idea. I’m also happy to
-drop by for informal check-ins or quick chats when something comes up.</p>
+<p>Communication shouldn’t be limited to scheduled meetings. I encourage you to
+reach out via Slack or email when you’re stuck, excited about a new idea, or
+unsure how to proceed. You don’t need a polished result to start a conversation</p>
+<ul>
+  <li>often the best discussions come from messy, unfinished thoughts.</li>
+</ul>
 
-<p>Clear and frequent communication is critical for good advising. I’ll do my part
-to be responsive and available - and I ask for the same in return.</p>
+<p>I try to be responsive and available, especially during crunch periods. If
+something is urgent or time-sensitive (e.g., for a deadline or blocking issue),
+just flag it clearly and I’ll prioritize it.</p>
+
+<h3 id="feedback">Feedback</h3>
+
+<p>I give direct, detailed feedback - particularly on writing, presentations, and
+framing research ideas. I take your work seriously, and my goal is to push you
+to think clearly, sharpen your arguments, and communicate precisely. That means
+I’ll often ask hard questions, point out weak spots, and suggest significant
+revisions. None of that is criticism of <em>you</em> - it’s an investment in helping
+you grow. Of course, it’s important that this is done respectfully and
+constructively. If it ever feels harsh or unhelpful, please let me know.
+Feedback should be a tool for growth, not a source of stress.</p>
+
+<p>One of the most productive things you can do is help me understand what kind of
+feedback you want. Are you looking for high-level input on direction, or line
+edits on a nearly-final talk? Are you trying to decide between ideas, or polish
+a contribution? Letting me know helps me meet you where you are.</p>
+
+<p>I also welcome disagreement. If you think I’m wrong about something, say so.
+Research is about making arguments and having those arguments tested. Thoughtful
+pushback is a sign that you’re thinking deeply and independently — and I value
+that.</p>
+
+<p>Ultimately, I want our communication to be honest, frequent, and intellectually
+engaged. If anything ever feels off, please bring it up. Feedback should go both
+ways.</p>
 
 <h2 id="authorship-and-collaboration">Authorship and collaboration</h2>
 
