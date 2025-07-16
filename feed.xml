@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-16T14:21:24+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://alanpapalia.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://alanpapalia.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-16T14:23:28+00:00</updated><id>https://alanpapalia.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">My Advising Philosophy as a (new) Faculty</title><link href="https://alanpapalia.github.io/blog/2025/advising-philosophy/" rel="alternate" type="text/html" title="My Advising Philosophy as a (new) Faculty" /><published>2025-07-16T00:00:00+00:00</published><updated>2025-07-16T00:00:00+00:00</updated><id>https://alanpapalia.github.io/blog/2025/advising-philosophy</id><content type="html" xml:base="https://alanpapalia.github.io/blog/2025/advising-philosophy/"><![CDATA[<p>This is a philosophy for my research group. While it’s primarily written for
 students interested in joining the lab, I hope it’s also useful as a reference
 point for those evaluating different advising styles more broadly.</p>
@@ -340,12 +340,10 @@ students to be self-directed, take initiative, and actively drive their own
 learning and progress. The whole point of a PhD is to learn how to do
 independent research.</p>
 
-<ul>
-  <li><strong>Whole-person support</strong>: PhD students are people. I care about your
+<p><strong>Whole-person support</strong>: PhD students are people. I care about your
 well-being, not just your productivity. If you’re struggling - with work,
 health, family, or motivation - I want you to be able to bring that up. We can
-adjust, recalibrate, and figure out how to move forward in a sustainable way.</li>
-</ul>
+adjust, recalibrate, and figure out how to move forward in a sustainable way.</p>
 
 <p><strong>Level of involvement</strong>: I aim to be an engaged mentor, especially early on. I
 expect to work closely with students on ideas, experiments, and papers. As you
