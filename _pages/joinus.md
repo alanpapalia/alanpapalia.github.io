@@ -31,9 +31,10 @@ interested in working on and why this interests you (any relevant experience is
 useful to highlight).
 
 I am looking for students who are excited to advance the state of the art in
-robotics and to tackle difficult fundamental problems in localization,
-perception, state estimation, and autonomous exploration and environmental
-monitoring of the environment.
+robotics and to tackle fundamental problems in:
+- localization, perception, state estimation;
+- long-term autonomy for exploring and studying the environment (e.g., information gathering); and
+- marrying model-based and data-driven approaches to robotics.
 
 <!--
 A short (and incomplete) list of topics that I am excited about includes:

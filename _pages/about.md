@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: <a href='https://marinerobotics.mit.edu/'>MIT CSAIL</a> / <a href='https://www.whoi.edu/'>WHOI</a>
-subtitle: <strong> Robotics | SLAM | Climate <br> Postdoc @ Northeastern <br> Incoming Faculty @ University of Michigan </strong>
+subtitle: <strong> Robotics | SLAM | Climate <br> Assistant Professor @ University of Michigan </strong>
 
 profile:
   align: right
@@ -25,14 +25,17 @@ University of Michigan undergrads.
 
 ## A bit about me
 
-I am an incoming Assistant Professor to the University of Michigan.  I am
-currently a postdoctoral researcher at Northeastern University, working with
-<a href="https://www.ece.neu.edu/people/singh-hanumant">Hanu Singh</a> and
-<a href="https://www.ece.neu.edu/people/everett-michael">Michael Everett</a>
-on robotic navigation.  I received my PhD in 2024 from the Massachusetts
+I am an (incoming) Assistant Professor to the University of Michigan.
+<!--  -->
+I received my PhD in 2025 from the Massachusetts
 Institute of Technology and the Woods Hole Oceanographic Institution <a
 href="https://mit.whoi.edu/"> Joint Program</a>, where I was lucky to work with
 <a href="https://www.csail.mit.edu/person/john-leonard">John Leonard</a>.
+<!--  -->
+I then spent a year at Northeastern University with
+<a href="https://www.ece.neu.edu/people/singh-hanumant">Hanu Singh</a> and
+<a href="https://www.ece.neu.edu/people/everett-michael">Michael Everett</a>
+on a broad set of topics in robot navigation and perception.
 
 **My research** develops algorithms and systems that enable robots to
 explore and monitor challenging environments, with a particular focus on
