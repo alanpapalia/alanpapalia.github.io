@@ -68,11 +68,21 @@ and are relevant anytime we want to deploy robots in the real world. -->
 
 ## Current University of Michigan Undergraduates
 
-I prefer undergraduate researchers who are available for *full-time
-research* in the coming summer.
+There is a ton of opportunities for motivated undergraduates to get involved in
+the research in our lab. The work for undergraduates in our lab can be quite
+varied, from designing/developing/deploying new platforms (there is a lot of
+potential for hands-on work here) to more algorithmic work (e.g., working on
+localization, perception, planning, etc.). I am happy to work with you to find a
+project that matches your interests and skills.
 
-**Still interested?** Please send:
-- A brief email confirming your full-time availability for the coming summer
+I prefer undergraduate researchers who are available for *full-time research* in
+the coming summer or at least 15 hours per week during the academic year. This
+is because anything less than this makes it hard to make meaningful progress on
+a project (and thus doesn't deliver the type of experience either of us want it
+to be).
+
+**Interested?** Please send:
+- A brief email confirming your availability for the summer or academic year
 - Your resume
 - Your (unofficial) transcript
 - Two short paragraphs explaining why you want to get involved
