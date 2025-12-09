@@ -23,7 +23,7 @@ See the information on my
 I also welcome inquiries from prospective postdocs, and
 University of Michigan undergrads.
 
-## A bit about me
+## A Bit About Me
 
 I am an (incoming) Assistant Professor to the University of Michigan.
 <!--  -->
@@ -42,16 +42,7 @@ explore and monitor challenging environments, with a particular focus on
 underwater environments. We work on the tools that will allow
 future robots to autonomously study and understand the natural world.
 
-<!-- My PhD research focused on enabling long-term, low-cost underwater navigation (a
-serious limitation to widespread autonomous ocean observation). This direction
-led to the development of a
-<a href="https://arxiv.org/abs/2302.11614">state-of-the-art SLAM backend</a> --
-built on tools from optimization, geometry, and graph theory -- that is both
-faster than existing methods and provides rigorous performance guarantees. This
-paints a picture of future work I am interested in: solving fundamental robotics
-problems that are motivated by important societal challenges. -->
-
-### Honors and awards
+### Honors and Awards
 
 - 2025 Robotics: Science and Systems Pioneer
 - 2024 Transactions on Robotics King-Sun Fu Best Paper Award
@@ -59,7 +50,7 @@ problems that are motivated by important societal challenges. -->
 - Woods Hole Next Wave Fellow
 - Undersea Technology Innovation Scholar
 
-### Roadmap for Climate Robotics
+### Roadmap for Climate-Relevant Robotics
 
 If you're interested in the future of robotics and how it can help us
 understand, mitigate, and adapt to climate change, check out this

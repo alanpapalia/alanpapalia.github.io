@@ -15,7 +15,10 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-    gem 'mini_racer'
+    # mini_racer builds a native V8 extension which can be difficult to compile
+    # inside minimal Docker images. If you have trouble building it locally,
+    # comment it out to use the system Node.js runtime (ExecJS) instead.
+    # gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
 end
