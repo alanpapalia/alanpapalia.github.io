@@ -25,7 +25,7 @@ University of Michigan undergrads.
 
 ## A Bit About Me
 
-I am an (incoming) Assistant Professor to the University of Michigan.
+I am an Assistant Professor at the University of Michigan.
 <!--  -->
 I received my PhD in 2025 from the Massachusetts
 Institute of Technology and the Woods Hole Oceanographic Institution <a
@@ -39,13 +39,27 @@ on a broad set of topics in robot navigation and perception.
 
 **My research** develops algorithms and systems that enable robots to
 explore and monitor challenging environments, with a particular focus on
-underwater environments. We work on the tools that will allow
+marine and maritime environments. We work on the tools that will allow
 future robots to autonomously study and understand the natural world.
+
+<details>
+  <summary><strong>Brief Personal Bio (for talks, etc.)</strong></summary>
+
+  Alan Papalia is an assistant professor in Naval Architecture & Marine
+  Engineering at the University of Michigan, where he runs the Robotic Exploration
+  Lab. He received his PhD in Ocean Engineering from MIT and the Woods Hole
+  Oceanographic Institution in 2025. His research focuses on algorithms to enable
+  robots to explore, perceive, and map unstructured environments. He particularly focuses
+  on applications in marine robotics and the broader maritime applications.
+  He is a recipient of the IEEE Transactions on Robotics King-Sun Fu Best Paper
+  Award and was selected as a 2025 Robotics: Science and Systems Pioneer.
+</details>
+
 
 ### Honors and Awards
 
 - 2025 Robotics: Science and Systems Pioneer
-- 2024 Transactions on Robotics King-Sun Fu Best Paper Award
+- 2025 Transactions on Robotics King-Sun Fu Best Paper Award
 - MathWorks Fellow
 - Woods Hole Next Wave Fellow
 - Undersea Technology Innovation Scholar
