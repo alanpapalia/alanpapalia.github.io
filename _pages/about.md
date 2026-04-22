@@ -16,12 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<span style="color:red;"> I am actively recruiting PhD students for the upcoming
+<!-- <span style="color:red;"> I am actively recruiting PhD students for the upcoming
 year. </span>
 See the information on my
 <a href="/join/">Join Us</a> page for how to reach out if you are interested in working with me.
 I also welcome inquiries from prospective postdocs, and
-University of Michigan undergrads.
+University of Michigan undergrads. -->
 
 ## A Bit About Me
 

@@ -9,7 +9,7 @@ nav_order: 1
 
 ## How to reach out
 
-<span style="color:red;"> I am actively recruiting PhD students for the upcoming year </span>
+<!-- <span style="color:red;"> I am actively recruiting PhD students for the upcoming year </span> -->
 
 See below for how to reach out if you are interested in working with me. I
 welcome inquiries from prospective PhD students, postdoctoral researchers, and
@@ -31,10 +31,10 @@ interested in working on and why this interests you (any relevant experience is
 useful to highlight).
 
 I am looking for students who are excited to advance the state of the art in
-robotics and to tackle fundamental problems in:
+field robotics and to tackle fundamental problems in:
 - localization, perception, state estimation;
 - long-term autonomy for exploring and studying the environment (e.g., information gathering); and
-- marrying model-based and data-driven approaches to robotics.
+- marrying model-based and data-driven approaches to robotics in the wild.
 
 <!--
 A short (and incomplete) list of topics that I am excited about includes:
@@ -90,4 +90,6 @@ to be).
 ## Postdoctoral Researchers
 
 Send me an email with your CV, three representative publications, and a
-description of what you are interested in working on.
+description of what you are interested in working on. The expectation is that
+you would be coming in with your own research agenda, that is aligned with the
+research directions of the lab, and that you would be leading your own projects.
